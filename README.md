@@ -77,3 +77,4 @@ elif n == "15":
     y = int(input())
     per = (x/y)*100
     print(per,"%")
+    GOOD
